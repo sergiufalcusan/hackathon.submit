@@ -21,3 +21,13 @@ We propose to teach javascript people that are interested on this cool language.
 
 ## Open souce
 - Quintus - for html5 game development
+
+## How to start project
+- go to frontend folder
+- npm install <- to get dependencies
+- mongod <- to start mongo database
+- node app.js <- start frontend server
+- go to backend folder
+- npm install <- to get dependencies
+- node app.js <- start backend server
+- http://localhost:3000/
